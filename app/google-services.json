@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "886522570348",
+    "firebase_url": "https://myapplication-ef5ca-default-rtdb.firebaseio.com",
+    "project_id": "myapplication-ef5ca",
+    "storage_bucket": "myapplication-ef5ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886522570348:android:f41f148d634382a4901a49",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK0HappNpmB30aSuPVAl5VAWL0urrEywE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886522570348:android:b3f5919cf22bbcda901a49",
+        "android_client_info": {
+          "package_name": "com.example.ecommerceapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK0HappNpmB30aSuPVAl5VAWL0urrEywE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
